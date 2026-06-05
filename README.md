@@ -23,11 +23,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Local AI + Live2D Solutions
 
-- **[AIRI](https://airi.ai/)**  
-  AI companion platform with strong Live2D integration and local-first capabilities for interactive virtual characters.
-
-- **[Local AI Chatbot Studio](https://localaistudio.com/)**  
-  Desktop tool for building animated AI characters with Live2D support and local LLM backends.
+| SaaS Product | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[AIRI](https://airi.ai/)** | Free / Open-Source | Unlimited (Local-first) | AI companion platform with strong Live2D integration and local-first capabilities. |
+| **[Local AI Chatbot Studio](https://localaistudio.com/)** | $4.99 (One-time) | 3 Models (Free version) | Desktop tool for building animated AI characters with Live2D support and local LLM backends. |
 
 **Other notable mentions**: Tools with VTube Studio integration and hybrid cloud/local solutions.
 
