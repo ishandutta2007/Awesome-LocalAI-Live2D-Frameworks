@@ -118,6 +118,21 @@ We welcome contributions! Help us keep this list the #1 resource for **Local AI 
   <img src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-LocalAI-Live2D-Frameworks&type=Date" alt="Star History Chart of Awesome Local AI + Live2D Frameworks" width="600">
 </p>
 
+
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-LocalAI-Live2D-Frameworks&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LocalAI-Live2D-Frameworks&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LocalAI-Live2D-Frameworks&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-LocalAI-Live2D-Frameworks&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
+
 <p align="center">
   Made with ❤️ for VTubers, Indie Devs, and AI Creators.
 </p>
