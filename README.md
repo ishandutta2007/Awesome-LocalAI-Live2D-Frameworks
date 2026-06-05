@@ -5,14 +5,14 @@
 # 🤖 Awesome Local AI + Live2D Frameworks ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moeru-ai/airi/main/docs/public/banner.png" alt="Awesome Local AI and Live2D Banner - Curated list of AI VTuber and Avatar Frameworks" width="100%">
+  <img src="banner.svg" alt="Awesome Local AI and Live2D Banner - Curated list of AI VTuber and Avatar Frameworks" width="100%">
 </p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <a href="https://github.com/ishan/Awesome-LocalAI-Live2D-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishan/Awesome-LocalAI-Live2D-Frameworks?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-LocalAI-Live2D-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LocalAI-Live2D-Frameworks?style=social" alt="GitHub stars"></a>
 </p>
 
 ---
@@ -26,8 +26,8 @@ Welcome to the definitive collection of **Local AI (Large Language Models)** and
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moeru-ai/airi/main/docs/public/demo-live2d.gif" alt="Live2D AI Companion Interaction Demo - Real-time Voice and Animation" width="45%">
-  <img src="https://github.com/SillyTavern/Extension-Live2d/raw/main/demo.gif" alt="SillyTavern Live2D Extension Demo - Character Interaction" width="45%">
+  <img src="https://raw.githubusercontent.com/Open-LLM-VTuber/Open-LLM-VTuber/main/assets/banner.jpg" alt="Live2D AI Companion Interaction Preview - Real-time Voice and Animation" width="45%">
+  <img src="https://raw.githubusercontent.com/SillyTavern/Extension-Live2d/main/readme_img/ui_model_talk.png" alt="SillyTavern Live2D Extension Demo - Character Interaction" width="45%">
   <br>
   <i>Experience real-time, emotionally intelligent AI avatars running entirely on your local hardware.</i>
 </p>
