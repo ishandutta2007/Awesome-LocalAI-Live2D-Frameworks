@@ -115,7 +115,6 @@ We welcome contributions! Help us keep this list the #1 resource for **Local AI 
 
 <p align="center">
   <b>If you find this list helpful, please give it a ⭐ to help others find it!</b><br>
-  <img src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-LocalAI-Live2D-Frameworks&type=Date" alt="Star History Chart of Awesome Local AI + Live2D Frameworks" width="600">
 </p>
 
 
