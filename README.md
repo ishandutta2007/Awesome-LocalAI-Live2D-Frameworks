@@ -13,6 +13,10 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-LocalAI-Live2D-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LocalAI-Live2D-Frameworks?style=social" alt="GitHub stars"></a>
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 </p>
 
 ---
